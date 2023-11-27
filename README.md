@@ -32,3 +32,5 @@ In my free time, I channel my creativity into the world of Minecraft, developing
 Email: ismaelgilena26@gmail.com
 
 Thanks for dropping by! I hope you find something interesting here. Feel free to explore my projects and share your feedback!
+
+![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiixZ&show_icons=true&theme=radical)
