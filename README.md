@@ -7,12 +7,12 @@ Welcome to my code haven! I'm a passionate final-year student at the University 
 🌐 Always ready to explore the vast universe of web development!
 
 ##💡 Featured Projects
-# Scape-Room
+### Scape-Room
 Embark on an immersive web adventure with my project, the Escape Room Web Experience! Developed using the powerful three.js library in JavaScript, this project takes the classic escape room concept to new digital heights.
 
 [project code](https://github.com/MiixZ/Scape-Room)
 
-## Famous-Scientists-Web
+### Famous-Scientists-Web
 Embark on a journey through the lives of renowned scientists with my project Famous-Scientists-Web. This project, boasting a robust backend developed in PHP and MySQL, coupled with an elegant frontend using HTML, CSS, and JavaScript, offers an interactive experience to explore the contributions and achievements of great minds throughout history.
 
 [project code](https://github.com/MiixZ/Cientificos-Famosos-Web)
