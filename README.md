@@ -1,4 +1,4 @@
-### Hello, I'm Isma! 👋
+# Hello, I'm Isma! 👋
 Welcome to my code haven! I'm a passionate final-year student at the University of Granada, diving headfirst into the art of software development. I love exploring new technologies and crafting creative solutions for the challenges that abound in the development world.
 
 ## 🚀 About Me
@@ -12,7 +12,7 @@ Embark on an immersive web adventure with my project, the Escape Room Web Experi
 
 [project code](https://github.com/MiixZ/Scape-Room)
 
-# Famous-Scientists-Web
+## Famous-Scientists-Web
 Embark on a journey through the lives of renowned scientists with my project Famous-Scientists-Web. This project, boasting a robust backend developed in PHP and MySQL, coupled with an elegant frontend using HTML, CSS, and JavaScript, offers an interactive experience to explore the contributions and achievements of great minds throughout history.
 
 [project code](https://github.com/MiixZ/Cientificos-Famosos-Web)
