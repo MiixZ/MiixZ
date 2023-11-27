@@ -6,7 +6,7 @@ Welcome to my code haven! I'm a passionate final-year student at the University 
 💻 Specializing in software development.
 🌐 Always ready to explore the vast universe of web development!
 
-##💡 Featured Projects
+## 💡 Featured Projects
 ### Scape-Room
 Embark on an immersive web adventure with my project, the Escape Room Web Experience! Developed using the powerful three.js library in JavaScript, this project takes the classic escape room concept to new digital heights.
 
@@ -17,17 +17,17 @@ Embark on a journey through the lives of renowned scientists with my project Fam
 
 [project code](https://github.com/MiixZ/Cientificos-Famosos-Web)
 
-##🌱 Currently Learning
+## 🌱 Currently Learning
 I never stop learning! Some of the technologies I'm currently experimenting with:
 
 - NodeJS
 - Docker
 - Angular cli
 
-##👨‍💻 Minecraft Plugin Development Experience
+## 👨‍💻 Minecraft Plugin Development Experience
 In my free time, I channel my creativity into the world of Minecraft, developing plugins that elevate the gaming experience.
 
-📫 Connect with Me!
+## 📫 Connect with Me!
 [LinkedIn](https://www.linkedin.com/in/ismael-díaz-díaz-3614bb27a/)
 Email: ismaelgilena26@gmail.com
 
