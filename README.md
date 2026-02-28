@@ -2,21 +2,21 @@
 Welcome to my code haven! I'm a passionate software developer based in Granada, Spain. I love exploring new technologies and crafting creative solutions for the challenges that abound in the development world.
 
 ## 🚀 About Me
-🎓 Computer Engineering graduate from the University of Granada.
-🎓 Currently pursuing a Master's degree in Computer Engineering (Ingeniería Informática) at UGR.
+🎓 Computer Engineering graduate from the University of Granada. B.Sc
+🎓 Master's degree graduate in Computer Engineering (Ingeniería Informática) at UGR. M.Sc
 💻 Specializing in full-stack and cloud-native software development.
 🌐 Always ready to explore the vast universe of web development!
 
 ## 🛠️ Tech Stack
 **Languages:** TypeScript · JavaScript · Python · Java · Kotlin · C++ · PHP · PowerShell
 
-**Frontend:** React · Angular · Astro · Tailwind CSS · HTML/CSS · three.js
+**Frontend:** React · Angular · Astro · Tailwind CSS · HTML/CSS · Three.js
 
-**Backend:** Node.js · Express
+**Backend:** Node.js · Express · Spring Boot
 
-**Cloud & DevOps:** Docker · Docker Compose · CI/CD (GitHub Actions)
+**Cloud & DevOps:** Docker · Docker Compose · CI/CD (GitHub Actions) · Kubernetes
 
-**Databases:** MySQL · PostgreSQL
+**Databases:** MySQL · PostgreSQL · MongoDB
 
 **Other:** Git · REST APIs · Jupyter Notebooks
 
@@ -57,9 +57,7 @@ I never stop learning! Some of the technologies I'm currently experimenting with
 In my free time, I channel my creativity into the world of Minecraft, developing plugins that elevate the gaming experience.
 
 ## 📫 Connect with Me!
-[LinkedIn](https://www.linkedin.com/in/ismael-díaz-díaz-3614bb27a/)
+[LinkedIn](https://www.linkedin.com/in/ismael-diaz-diaz)
 Email: ismaelgilena26@gmail.com
 
 Thanks for dropping by! I hope you find something interesting here. Feel free to explore my projects and share your feedback!
-
-![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiixZ&show_icons=true&theme=radical)
