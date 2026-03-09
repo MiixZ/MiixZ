@@ -2,8 +2,8 @@
 Welcome to my code haven! I'm a passionate software developer based in Granada, Spain. I love exploring new technologies and crafting creative solutions for the challenges that abound in the development world.
 
 ## 🚀 About Me
-🎓 Computer Engineering graduate from the University of Granada. B.Sc
-🎓 Master's degree graduate in Computer Engineering (Ingeniería Informática) at UGR. M.Sc
+🎓 Computer Science graduate from the University of Granada. B.Sc
+🎓 Master's degree graduate in Computer Science (Ingeniería Informática) at UGR. M.Sc
 💻 Specializing in full-stack and cloud-native software development.
 🌐 Always ready to explore the vast universe of web development!
 
